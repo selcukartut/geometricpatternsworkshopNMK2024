@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="print (1).jpg" title="Geometric Patterns - Orosi">
+  <img src="wArtboard 1 copy 2@2x-100.jpg" title="Geometric Patterns - Orosi">
 </p>
 
 Dersin adı: Yaratıcı Kodlama ile Geometrik Desenler Üretme<br />
