@@ -1,4 +1,4 @@
-Dersin adı: Yaratıcı Kodlama ile Geometrik Desenler Üretme
+Dersin adı: Yaratıcı Kodlama ile Geometrik Desenler Üretme/n
 Eğitmenin adı: Doç. Dr. Selçuk ARTUT
 Kurum: Sabancı Üniversitesi
 Tarihler: 26 Ağustos-1 Eylül 2024
